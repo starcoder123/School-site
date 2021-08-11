@@ -1,0 +1,21 @@
+#supplies_list {
+    background-color: aqua;
+}
+
+
+#video {
+    width: 70%;
+    height: 60%;
+}
+
+
+.my_nav_bar {
+    height: 20%;
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+body {
+	background: linear-gradient(#03fcca,#03dffc);
+}
